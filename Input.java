@@ -7,5 +7,9 @@ public class Input {
             Scanner scan = new Scanner (System.in);
             int Age = sc.nextInt ();
             System.out.println(Age);
+            String fName = sc.nextLine();
+            System.out.println(fName);
+            String mName = sc.nextLine();
+            System.out.println(mName);
     }
 }
