@@ -6,7 +6,7 @@ public class triangle {
                 System.out.print("*");
             }
 
-            System.out.println(" ");
+            System.out.println(" ");  
         }
     }
 }
