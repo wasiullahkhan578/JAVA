@@ -37,7 +37,7 @@ public class GeeksForGeeks
     // Driver Function
     public static void main(String args[])
     {
-        int n = 5;
+        int n = 10;
         printStars(n);
     }
 }
