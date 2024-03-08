@@ -36,7 +36,7 @@ public class GeeksForGeeks1
     // Driver Function
     public static void main(String args[])
     {
-        int n = 5;
+        int n = 15;
         printTriangle(n);
     }
 }
