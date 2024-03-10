@@ -4,6 +4,7 @@ public class fuzzbuzz2 {
         Scanner sc = new Scanner (System.in);
     System.out.println("Enter your number: ");
     int num = sc.nextInt();
+    for (int i=0; i<=num; i++){
     if( num%3==0 && num%5==0){
         System.out.println("FizzBuzz");
     } else if( num%5==0){
@@ -14,4 +15,5 @@ public class fuzzbuzz2 {
         System.out.println(num);
     }
     }
+}
 }
