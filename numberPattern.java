@@ -14,7 +14,7 @@ public class numberPattern {
                 // column
                 if (i == 0 || j == 0 || i == n - 1
                     || j == n - 1) {
-                    System.out.print("*");
+                    System.out.print("^");
                 }
                 // otherwise print space only.
                 else {
