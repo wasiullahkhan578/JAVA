@@ -20,5 +20,7 @@ public class WeekDays {
                         break;
                 default: System.out.println("wrong day number");
                 }
+                sc.close();
+
         }
 }
