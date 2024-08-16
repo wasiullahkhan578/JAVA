@@ -10,5 +10,6 @@ public class character {
                 ch++;
             }System.out.println();
         }
+        sc.close();
     }
 }
