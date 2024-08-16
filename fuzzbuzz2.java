@@ -15,5 +15,6 @@ public class fuzzbuzz2 {
                     System.out.println(i);
                 }
         }
-}
+        sc.close();
+    }
 }
