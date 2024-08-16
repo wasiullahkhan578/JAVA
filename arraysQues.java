@@ -13,6 +13,6 @@ public class arraysQues {
                 System.out.println("x is found at "+i);
             }
         }
-
+        sc.close();
     }
 }
