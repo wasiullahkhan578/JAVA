@@ -19,5 +19,6 @@ public class FizzBuzz2 {
                 }
             }
         }
+        sc.close();
     }
 }
