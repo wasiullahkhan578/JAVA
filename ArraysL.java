@@ -1,4 +1,3 @@
-import java.util.*;
 public class ArraysL {
     public static int  linear(int number [],int key){
         for(int i=0; i<number.length; i++){
