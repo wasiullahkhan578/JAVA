@@ -11,5 +11,7 @@ public class Input {
             System.out.println(fName);
             String mName = sc.nextLine();
             System.out.println(mName);
+            scan.close();
+            sc.close();
     }
 }

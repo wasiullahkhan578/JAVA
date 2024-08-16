@@ -13,6 +13,7 @@ public class IncomeTax {
         else{
             tax = (int) (income*0.3);
         }
+        sc.close();
         System.out.println("Your Incometax on your"+income+ " is "+tax+" Rupees.");
     }
 }
