@@ -8,5 +8,7 @@ public class nNumber {
             System.out.print(m);
             m++;
         }
+        sc.close();
+
     }
 }

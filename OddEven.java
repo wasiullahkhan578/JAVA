@@ -8,5 +8,7 @@ public class OddEven {
         } else {
             System.out.println("The Number Is Odd");
         }
+        sc.close();
+
     }
 }
