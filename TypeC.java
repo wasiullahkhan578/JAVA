@@ -4,6 +4,8 @@ public class TypeC {
         Scanner sc = new Scanner(System.in);
         float num = sc.nextInt();
         System.out.println(num);
+        sc.close();
+
     }
     
 }

@@ -9,5 +9,7 @@ public class sumfn {
         int a = sc.nextInt();
         int b = sc.nextInt();
         sum(a,b);
+        sc.close();
+
     }
 }

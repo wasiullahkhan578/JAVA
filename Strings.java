@@ -4,5 +4,7 @@ public class Strings {
         Scanner sc = new Scanner(System.in);
         String name = sc.nextLine();
         System.out.println("Your Name Is "+name);
+        sc.close();
+
     }
 }
