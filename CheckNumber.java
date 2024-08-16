@@ -5,5 +5,6 @@ public class CheckNumber {
         int num = sc.nextInt();
         String check = (num<0)? "Negative": "Positive";
         System.out.println(check);
+        sc.close();
     }
 }
