@@ -1,4 +1,3 @@
-import java.util.*;
 public class Arrays1 {
     public static void main(String[] args) {
         int [ ] marks = new int [4];
@@ -7,7 +6,7 @@ public class Arrays1 {
         marks [2] = 99;
         marks [3] = 100;
         for(int i =0; i<4;i++){
-            System.out.println(marks[i]);
+            System.out.print(marks[i]);
         }
 
 
