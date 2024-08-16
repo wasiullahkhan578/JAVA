@@ -6,9 +6,12 @@ public class quescontinue {
         do{
             System.out.println("Enter Your Number..");
             int i = sc.nextInt();
+            sc.close();
+
             if( i % 10 == 0){
                 continue;
             } System.out.println(i);
         } while(true);
+        
     }
 }

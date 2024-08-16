@@ -7,5 +7,7 @@ public class ques3 {
         float eraser = sc.nextFloat();
         float bill = pen+pencil+eraser;
         System.out.println(bill);
+        sc.close();
+
     }
 }

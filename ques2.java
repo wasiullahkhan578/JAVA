@@ -5,6 +5,7 @@ public class ques2 {
         int r = sc.nextInt();
         int area = r*r;
         System.out.println(area);
+        sc.close();
 
     }
 }

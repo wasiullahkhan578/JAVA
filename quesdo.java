@@ -10,6 +10,8 @@ public class quesdo {
             }System.out.println(n);
 
         }while(true); 
+        sc.close();
+
     }
 
 }
