@@ -1,4 +1,3 @@
-import java.util.*;
 public class ArrayL {
     public static int getLargest(int numbers[]){
         int largest = Integer.MIN_VALUE;
@@ -11,7 +10,7 @@ public class ArrayL {
                 smallest=numbers[i];
             }
         }
-        System.out.println("The Smallest Number IN tHE aRRAYS is "+smallest);
+        System.out.println("The Smallest Number IN The Array is "+smallest);
         return largest;
     }
     public static void main(String[] args) {
