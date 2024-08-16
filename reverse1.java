@@ -10,6 +10,8 @@ public class reverse1 {
             num = num/10;
         }
         System.out.println(rev);
+        sc.close();
+
     }
 
 }

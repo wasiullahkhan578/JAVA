@@ -10,7 +10,10 @@ public class reversestar {
                 System.out.println();
     
             }
+            sc.close();
+
         }
+        
     
     
 }
