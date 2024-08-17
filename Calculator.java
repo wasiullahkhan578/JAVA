@@ -19,7 +19,7 @@ public class Calculator {
                 break;
             case '%': System.out.println(a%b);
                 break;
-            default: System.out.println("Wrong Operator");
+            default: System.out.println("you entered Wrong Operator");
                 break;
         }
         sc.close();
