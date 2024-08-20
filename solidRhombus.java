@@ -11,6 +11,6 @@ public class solidRhombus {
         }
     }
     public static void main(String[] args) {
-        SRhombus(4);
+        SRhombus(9);
     }
 }
