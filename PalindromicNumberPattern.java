@@ -19,6 +19,6 @@ public class PalindromicNumberPattern {
         }
     }
     public static void main(String[] args) {
-        palindromicP(5);
+        palindromicP(8);
     }
 }
