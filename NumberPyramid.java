@@ -12,6 +12,6 @@ public class NumberPyramid {
         }
     }
     public static void main(String[] args) {
-        numPyramid(5);
+        numPyramid(8);
     }
 }
